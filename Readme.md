@@ -1,6 +1,8 @@
 #Git_testes
 
-Teste de alteração
+Teste de alterações
+
+Alteração número 1
 
 Alteração número 2
 
